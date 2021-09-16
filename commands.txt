@@ -1,0 +1,30 @@
+version:  git --version
+
+git clone https://github.com/spring-guides/gs-maven.git
+
+dir
+
+cd gs-maven
+
+git log
+
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m "add first java program"
+
+git remote add origin https://github.com/GeethanjaliAnbalagan/gitgenkinintagration.git
+
+git push -u origin master
+
+firstprogram.java
+
+ git commit -m "modified first java program"
+
+
+
